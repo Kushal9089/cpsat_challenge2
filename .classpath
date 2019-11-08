@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/Automationsw/SeleniumWD_2.53_jars/testng-6.9.9.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
